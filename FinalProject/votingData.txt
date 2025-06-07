@@ -1,0 +1,41 @@
+m_id:vote:coutry:comment //- means an empty comment
+4:5:UK:Waste of time
+4:5:Spain:Not so good
+15:7:Peru:Nice film
+15:7:USA:Not so good
+15:10:China:Brilliant film
+12:8:USA:Very enjoyable romantic movie
+12:8:Peru:-
+11:10:Germany:This movie really makes you think about life
+11:10:Spain:Very enjoyable
+6:6:Germany:Good actors but bad movie
+6:2:USA:the worst film ever
+1:8:UK:Very enjoyable
+1:8:UK:Very enjoyable
+1:9:USA:Very enjoyable
+3:10:Spain:Brilliant movie
+3:10:China:Brilliant movie
+7:8:France:-
+7:8:Spain:-
+9:8:UK:Nice movie for the family
+9:8:UK:-
+10:9:Spain:-
+10:9:Germany:"fun, good actors"
+13:10:UK:Unforgettable
+13:10:China:Thank you so much for this movie
+16:10:Germany:Unforgettable
+16:8:Spain:This movie really makes you think about life
+16:5:Russia:Not so good 
+5:7:USA:Nice comedy
+5:7:UK:-
+17:9:USA:The best actors of all time
+17:10:UK:Brilliant film
+17:7:Peru:"interesting movie,good actors"
+14:3:France:the worst film ever made
+14:3:UK:The worst movie I've ever seen
+14:7:USA:-
+2:9:USA:-
+2:9:Germany:Great movie !!!!!
+8:3:France:Boring movie
+8:2:China:Worst Film Ever
+26:9:israel:i love messi

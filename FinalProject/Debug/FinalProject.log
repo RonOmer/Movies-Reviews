@@ -1,0 +1,11 @@
+﻿  Qfinal.c
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר א\C + עקרונות התכנות\C tasks\FinalProject\FinalProject\Qfinal.c(203,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר א\C + עקרונות התכנות\C tasks\FinalProject\FinalProject\Qfinal.c(338,17): warning C4090: 'function': different 'const' qualifiers
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר א\C + עקרונות התכנות\C tasks\FinalProject\FinalProject\Qfinal.c(719,10): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר א\C + עקרונות התכנות\C tasks\FinalProject\FinalProject\Qfinal.c(720,25): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[100]'
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר א\C + עקרונות התכנות\C tasks\FinalProject\FinalProject\Qfinal.c(720,25): warning C4024: 'printVotes': different types for formal and actual parameter 1
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר א\C + עקרונות התכנות\C tasks\FinalProject\FinalProject\Qfinal.c(727,10): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר א\C + עקרונות התכנות\C tasks\FinalProject\FinalProject\Qfinal.c(728,15): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[100]'
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר א\C + עקרונות התכנות\C tasks\FinalProject\FinalProject\Qfinal.c(728,15): warning C4024: 'countGenre': different types for formal and actual parameter 1
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר א\C + עקרונות התכנות\C tasks\FinalProject\FinalProject\Qfinal.c(535,1): warning C4715: 'maxBycountry': not all control paths return a value
+  FinalProject.vcxproj -> C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר א\C + עקרונות התכנות\C tasks\FinalProject\Debug\FinalProject.exe
